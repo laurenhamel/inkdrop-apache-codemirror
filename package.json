@@ -5,7 +5,7 @@
   "description": "Apache CodeMirror language mode for Inkdrop",
   "keywords": [
   ],
-  "repository": "github:laurenhamel/inkdrop-apache-codemirror",
+  "repository": "https://github.com/laurenhamel/inkdrop-apache-codemirror",
   "license": "MIT",
   "engines": {
     "inkdrop": ">=3.7.3 <4.0.0"
