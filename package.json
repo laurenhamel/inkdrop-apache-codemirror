@@ -1,11 +1,11 @@
 {
-  "name": "inkdrop-apache-codemirror-mode",
+  "name": "inkdrop-apache-codemirror",
   "main": "./lib/apache",
   "version": "0.0.0",
   "description": "Apache CodeMirror language mode for Inkdrop",
   "keywords": [
   ],
-  "repository": "github:laurenhamel/inkdrop-apache-codemirror-mode",
+  "repository": "github:laurenhamel/inkdrop-apache-codemirror",
   "license": "MIT",
   "engines": {
     "inkdrop": ">=3.7.3 <4.0.0"
